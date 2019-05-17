@@ -1,0 +1,41 @@
+.container-pie{
+    border-top: 2px solid #ccc;
+    background-color: black;
+    color: blue;
+}
+#menu-principal li a:hover {
+    background-color: orange;
+}
+#barra-institucion li a:hover {
+    background-color: orange;
+}
+#barra-inscripcion li a:hover {
+    background-color: orange;
+}
+#barra-alumnos li a:hover {
+    background-color: orange;
+}
+#barra-documentos li a:hover {
+    background-color: orange;
+}
+#barrita li a:hover {
+    background-color: orange;
+}
+#juegoColor{
+    color: #CC0000;
+}
+#body_juego{
+    background-color: steelblue;
+}
+#leyenda_juego{
+    color: whitesmoke;
+}
+.row p{
+    color: #ccc;
+}
+#respuestas   {
+   background-color: white;
+}
+.row {
+  height: 900%;
+}
